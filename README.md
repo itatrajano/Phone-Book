@@ -1,2 +1,2 @@
 # Phone-Book
-Phone Book project to a Java programming course
+Phone Book project to learn search algorithms in a Java programming course
